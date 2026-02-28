@@ -47,7 +47,7 @@ We’re building this platform using cutting-edge technologies to ensure **speed
 | **Voice / Speech Processing** |Vapi AI |
 | **Database** | =Neon PostgreSQL — secure data management |
 | **Authentication** | Clerk |
-| **Deployment** | AWS / Vercel  |
+| **Deployment** | Vercel  |
 
 ---
 
